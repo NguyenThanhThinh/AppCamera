@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCamera.Business", "AppCa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCamera.Data", "AppCamera.Data\AppCamera.Data.csproj", "{B32123E8-BED3-404C-B5F4-52A9E2832986}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCamera.Web", "AppCamera.Web\AppCamera.Web.csproj", "{EFAA1B8D-447C-4C76-805A-46BE2F8C1C9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B32123E8-BED3-404C-B5F4-52A9E2832986}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B32123E8-BED3-404C-B5F4-52A9E2832986}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B32123E8-BED3-404C-B5F4-52A9E2832986}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFAA1B8D-447C-4C76-805A-46BE2F8C1C9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFAA1B8D-447C-4C76-805A-46BE2F8C1C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFAA1B8D-447C-4C76-805A-46BE2F8C1C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFAA1B8D-447C-4C76-805A-46BE2F8C1C9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
